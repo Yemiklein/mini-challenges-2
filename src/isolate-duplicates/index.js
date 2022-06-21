@@ -12,7 +12,7 @@ const isolateDuplicates = (str) => {
     }
   })
 return duplicateChars;
-}
+};
 
 //let duplicateChars = isolateDuplicates ('a,b,c,d,e,b,c,a');
 
